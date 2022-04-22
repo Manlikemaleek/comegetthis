@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div>
+    <div className='w-full my-32'>
         <div>
             <div>
                 <h2>Trusted by Developers across the world</h2>
