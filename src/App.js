@@ -4,6 +4,7 @@ import About from './components/About'
 import Support from './components/Support'
 import All from './components/All'
 import Pricing from './components/Pricing'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
      < Support />
      < All />
      < Pricing />
+     < Footer />
     </>
   );
 }
